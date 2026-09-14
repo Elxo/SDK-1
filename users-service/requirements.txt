@@ -1,0 +1,5 @@
+# Every dependency is pinned to an exact version so that a clone built today and
+# a clone built next semester install the same packages.
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+asyncpg==0.31.0
