@@ -2,7 +2,9 @@
 
 ## a. Diagram
 
-TODO
+![System diagram: Browser loads the frontend bundle (1), then calls the Order, Products and Users services directly over HTTP (2); each service reaches Postgres over TCP:5432, and Migration Runner writes to Postgres separately at startup](assets/system-diagram.png)
+
+(Diagram content and layout are mine, drawn by hand before asking Claude anything about it. The image file itself was embedded into the repo by Claude Code from a screenshot I pasted into the chat.)
 
 ## b. Request trace
 

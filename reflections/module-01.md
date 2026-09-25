@@ -12,8 +12,8 @@ Anything, it was a new expierience for me to work with a project that isn't mine
 
 ## What I would do differently
 
-Try to not understand every little detail of the code
+Try to not understand every little detail of the code at first but the main picture of it
 
 ## How long this took me
 
-4h
+6h
